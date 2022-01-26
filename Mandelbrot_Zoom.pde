@@ -1,6 +1,4 @@
 /*
-Author: Red1082
- 
  This formula describes the fractal!
  Current formula: z1 = z0^2 + c
  z^2 = (a+bi)^2 = a^2 + 2abi - b^2
